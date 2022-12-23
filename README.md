@@ -1,9 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I’m Jayasekhar G.
 - 🔭 I’m currently working as DevOps Engineer.
 - 🌱 I’m currently learning Cloud and DevOps Skills.
-- 👯 I’m looking to collaborate on DevOps Related Projects.
+- 👯 I’m looking to collaborate on DevOps Enthusiasts.
 - 🤔 I’m looking for help with DevSecOps...
-- 💬 Ask me about anything about DevOps
-- 📫 How to reach me: linkedin.com/in/jayasekhar-gangoru-2b86b1223
-- ⚡ Fun fact: I may not be special, but I’m definitely limited edition!
+- 💬 Ask me about anything about DevOps.
+- 📫 How to reach me: jayasekhar.gangoru@gmail.com
+- ⚡ Fun fact: Everything starts from Curiosity!
